@@ -8,9 +8,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundColor: {
-        mainBg: "#F3F5FF",
-        secBg: "#5335D9",
-        mainText: "#0B0A33",
+        
       },
       animation: {},
     },
